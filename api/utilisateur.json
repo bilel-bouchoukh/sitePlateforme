@@ -1,0 +1,22 @@
+[
+    {
+        "prenom" : "Bilel",
+        "nom" : "Bouchoukh",
+        "mail" : "bilelbouchoukh@gmail.com"
+
+    },
+
+    {
+        "prenom" : "Xavier",
+        "nom" : "Dupont",
+        "mail" : "xavierdupont@gmail.com"
+
+    },
+
+    {
+        "prenom" : "Tom",
+        "nom" : "Laurent",
+        "mail" : "tomlaurent@gmail.com"
+
+    }
+]
